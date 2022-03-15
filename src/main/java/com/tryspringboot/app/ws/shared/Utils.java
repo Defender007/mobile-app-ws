@@ -3,6 +3,7 @@ package com.tryspringboot.app.ws.shared;
 import java.security.SecureRandom;
 import java.util.Random;
 
+
 public class Utils {
    
     private final Random RANDOM = new SecureRandom();
